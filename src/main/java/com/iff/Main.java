@@ -8,7 +8,7 @@ import org.apache.jena.rdf.model.ModelFactory;
 public class Main {
     public static void main(String[] args) {
         Model model = ModelFactory.createDefaultModel();
-        String resourceURI = "http://dbpedia.org/resource/Roger_Federer";
+        String resourceURI = "http://dbpedia.org/resource/Roberto_Ribeiro";
 
         SemanticCrawler crawler = new SemanticCrawlerImpl();
         crawler.search(model, resourceURI);

@@ -1,0 +1,445 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.wikidata.org/prop/direct/"
+    xmlns:j.1="http://www.wikidata.org/entity/"
+    xmlns:j.2="http://dbpedia.org/ontology/"
+    xmlns:j.3="http://dbpedia.org/class/yago/"
+    xmlns:j.4="http://yago-knowledge.org/resource/"
+    xmlns:j.5="http://schema.org/"
+    xmlns:j.6="http://es.dbpedia.org/property/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:j.7="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#"
+    xmlns:j.8="http://dbpedia.org/property/"
+    xmlns:j.9="http://purl.org/dc/terms/"
+    xmlns:j.10="http://wikiba.se/ontology#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:j.11="http://www.w3.org/ns/prov#"
+    xmlns:j.12="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.13="http://www.wikidata.org/prop/direct-normalized/"
+    xmlns:j.14="http://dbpedia.org/class/yago/WikicatPeopleFromRioDeJaneiro(state)"
+    xmlns:j.15="http://xmlns.com/foaf/0.1/"
+    xmlns:j.16="http://www.wikidata.org/prop/">
+  <j.5:MusicGroup rdf:about="http://musicbrainz.org/artist/70d13364-265a-4961-856e-fd3d8bcfaf25">
+    <j.5:location rdf:resource="http://musicbrainz.org/area/f45b47f8-5796-386e-b172-6c31b009a5d8"/>
+    <j.5:album rdf:resource="http://musicbrainz.org/release-group/ae8a1dda-37ca-36c6-9d18-095ec7ffa076"/>
+    <j.5:sameAs rdf:resource="http://viaf.org/viaf/53904866"/>
+    <j.5:birthPlace rdf:resource="http://musicbrainz.org/area/36129dff-9f7a-45b5-aaed-c94b86edbf5c"/>
+    <j.5:sameAs rdf:resource="https://www.discogs.com/artist/674142"/>
+    <j.5:name>Roberto Ribeiro</j.5:name>
+    <j.5:album rdf:resource="http://musicbrainz.org/release-group/b43dc65a-8dfc-34de-b9f1-42342210661a"/>
+    <j.5:birthDate rdf:datatype="http://schema.org/Date">1940-07-20</j.5:birthDate>
+    <j.5:deathDate rdf:datatype="http://schema.org/Date">1996-01-08</j.5:deathDate>
+    <j.5:album rdf:resource="http://musicbrainz.org/release-group/51dc7686-d388-3a7d-87fc-20ef4c0f349c"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <j.5:album rdf:resource="http://musicbrainz.org/release-group/ea264372-4e8f-4a47-84da-876b93f3dd11"/>
+    <j.5:album rdf:resource="http://musicbrainz.org/release-group/62d616eb-ce08-3f74-b904-95b4e2692dd6"/>
+    <j.5:album rdf:resource="http://musicbrainz.org/release-group/6b501c59-5a43-3116-b083-363ae229ac49"/>
+    <j.5:album rdf:resource="http://musicbrainz.org/release-group/e0671c58-c8dc-3424-bc78-7ba763c527a6"/>
+    <j.5:sameAs>
+      <j.10:Item rdf:about="http://www.wikidata.org/entity/Q7351875">
+        <j.12:prefLabel xml:lang="sq">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="ga">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="ca">Roberto Ribeiro</j.12:prefLabel>
+        <j.0:P2031 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1966-01-01T00:00:00Z</j.0:P2031>
+        <j.12:prefLabel xml:lang="ast">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="sl">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="sv">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="nn">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="da">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="nb">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="fr">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="nl">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="es">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="pt-br">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="de">Roberto Ribeiro</j.12:prefLabel>
+        <j.0:P244>no2006067373</j.0:P244>
+        <j.5:description xml:lang="bn">à¦¬à§ à¦°à¦¾à¦œà¦¿à¦²à§€à¦¯à¦¼ à¦—à¦¾à¦¯à¦¼à¦•</j.5:description>
+        <j.5:name xml:lang="arz">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ</j.5:name>
+        <j.5:name xml:lang="ar">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ</j.5:name>
+        <j.0:P345>nm2719591</j.0:P345>
+        <j.5:description xml:lang="da">brasiliansk sanger</j.5:description>
+        <j.5:description xml:lang="nb">brasiliansk sanger</j.5:description>
+        <j.0:P1412 rdf:resource="http://www.wikidata.org/entity/Q5146"/>
+        <j.5:description xml:lang="fr">chanteur brÃ©silien</j.5:description>
+        <j.16:P20 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-6362BEA3-E701-4CBB-AC22-62016A344C26"/>
+        <j.16:P434 rdf:resource="http://www.wikidata.org/entity/statement/q7351875-F6C2EF39-B848-4E21-A775-36E780750B9A"/>
+        <j.5:name xml:lang="sl">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="sv">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="nn">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="da">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="nb">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="fr">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="nl">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="es">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="pt">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="en">Roberto Ribeiro</j.5:name>
+        <j.5:description xml:lang="ga">amhrÃ¡naÃ­ BrasaÃ­leach</j.5:description>
+        <j.13:P214 rdf:resource="http://viaf.org/viaf/53904866"/>
+        <j.5:name xml:lang="de">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="pt-br">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="ast">Roberto Ribeiro</j.5:name>
+        <j.16:P570 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-F97FDDF1-7CB8-41DB-BB94-E5F2C48015D1"/>
+        <j.5:name xml:lang="ca">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="ga">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="sq">Roberto Ribeiro</j.5:name>
+        <j.5:name xml:lang="pap">Roberto Ribeiro</j.5:name>
+        <j.5:description xml:lang="eu">abeslari brasildarra</j.5:description>
+        <j.5:description xml:lang="en">Brazilian singer</j.5:description>
+        <j.5:description xml:lang="en-gb">Brazilian singer</j.5:description>
+        <j.5:description xml:lang="en-ca">Brazilian singer</j.5:description>
+        <j.16:P9328 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-EFD79980-51A3-4FD8-B7C8-A1C09384CD8A"/>
+        <j.16:P21 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-733E6967-88EA-4D08-9B50-A39750C0C54F"/>
+        <j.16:P734 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-0DC06802-B6F8-41A5-9CBC-E2AC3F76D571"/>
+        <j.0:P19 rdf:resource="http://www.wikidata.org/entity/Q689868"/>
+        <j.0:P213>0000 0000 5490 7776</j.0:P213>
+        <j.16:P1953 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-c8c6070c-1c98-4efe-affa-3de482f3fad5"/>
+        <j.5:description xml:lang="gl">cantante brasileiro</j.5:description>
+        <j.0:P7859>lccn-no2006067373</j.0:P7859>
+        <j.5:description xml:lang="ace">ureueng meujangeun Brasil</j.5:description>
+        <j.5:description xml:lang="cy">cyfansoddwr a aned yn 1940</j.5:description>
+        <j.16:P213 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-19F994B8-A87D-4180-9A2F-8B07BDACA1BA"/>
+        <j.0:P31 rdf:resource="http://www.wikidata.org/entity/Q5"/>
+        <j.12:prefLabel xml:lang="ar">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="arz">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ</j.12:prefLabel>
+        <j.0:P3368>1924086</j.0:P3368>
+        <j.12:altLabel xml:lang="pt">Dermeval Miranda Maciel</j.12:altLabel>
+        <j.16:P268 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-C58359C8-5D30-4447-8891-DD13FBA4D48B"/>
+        <j.16:P244 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-98725E49-D226-4AB7-9FFF-DA3C54F805E5"/>
+        <j.0:P7212>roberto-ribeiro-lyrics.html</j.0:P7212>
+        <j.16:P27 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-C26F9ADB-C286-4C25-9A5D-1429EA7004D9"/>
+        <j.5:description xml:lang="es">cantante brasileÃ±o</j.5:description>
+        <j.5:description xml:lang="ca">cantant brasiler</j.5:description>
+        <j.16:P214 rdf:resource="http://www.wikidata.org/entity/statement/q7351875-987EBCB2-4CB3-406B-AA55-A2FD88FEEFD3"/>
+        <j.0:P106 rdf:resource="http://www.wikidata.org/entity/Q177220"/>
+        <j.16:P7859 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-0516B240-D075-4318-AAD0-29E7A089F55C"/>
+        <j.5:description xml:lang="ar">Ù…ØºÙ†ÙŠ Ø¨Ø±Ø§Ø²ÙŠÙ„ÙŠ</j.5:description>
+        <j.5:description xml:lang="ast">cantante brasilanu (1940â€“1996)</j.5:description>
+        <j.0:P646>/m/04ljpcz</j.0:P646>
+        <j.0:P21 rdf:resource="http://www.wikidata.org/entity/Q6581097"/>
+        <rdfs:label xml:lang="de">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="en">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="pt">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="es">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="nl">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="fr">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="nb">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="da">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="nn">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="sv">Roberto Ribeiro</rdfs:label>
+        <j.5:description xml:lang="ro">cÃ¢ntÄƒreÈ› brazilian</j.5:description>
+        <rdfs:label xml:lang="sl">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="ast">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="ca">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="ga">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="sq">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="pap">Roberto Ribeiro</rdfs:label>
+        <j.0:P214>53904866</j.0:P214>
+        <j.0:P569 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1940-07-20T00:00:00Z</j.0:P569>
+        <j.5:name xml:lang="fa">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÛŒØ¨Ø±ÛŒÙˆ</j.5:name>
+        <j.0:P434>70d13364-265a-4961-856e-fd3d8bcfaf25</j.0:P434>
+        <j.5:description xml:lang="nl">zanger uit BraziliÃ« (1940-1996)</j.5:description>
+        <j.0:P18 rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20Ribeiro%20%281971%29.tif"/>
+        <j.5:description xml:lang="it">cantante brasiliano</j.5:description>
+        <j.0:P20 rdf:resource="http://www.wikidata.org/entity/Q8678"/>
+        <j.16:P5882 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-66A625AC-DBF9-4E4F-8A32-E5102A4F99AF"/>
+        <j.0:P509 rdf:resource="http://www.wikidata.org/entity/Q9637047"/>
+        <rdfs:label xml:lang="fa">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÛŒØ¨Ø±ÛŒÙˆ</rdfs:label>
+        <j.0:P734 rdf:resource="http://www.wikidata.org/entity/Q21452666"/>
+        <j.0:P9328>30459494952</j.0:P9328>
+        <j.16:P106 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-586434E9-0352-4286-A52D-848BCE1C987A"/>
+        <j.5:description xml:lang="et">Brasiilia laulja</j.5:description>
+        <j.5:description xml:lang="de">brasilianischer SÃ¤nger</j.5:description>
+        <j.16:P569 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-6D7C974F-B150-428F-BC97-8C511CC717F2"/>
+        <j.5:description xml:lang="sv">brasiliansk sÃ¥ngare</j.5:description>
+        <j.16:P106 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-D945EF85-BE77-4DD9-A1E9-797BD29E4832"/>
+        <j.13:P244 rdf:resource="http://id.loc.gov/authorities/names/no2006067373"/>
+        <j.16:P7212 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-01627C73-1F6B-4DC9-BB59-3A41D8A39089"/>
+        <j.5:description xml:lang="pt">Cantor e intÃ©rprete de samba-enredo brasileiro</j.5:description>
+        <j.0:P106 rdf:resource="http://www.wikidata.org/entity/Q36834"/>
+        <j.16:P1553 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-b973804f-ca8c-48d5-9e6a-03b4bf2e400a"/>
+        <j.16:P7704 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-FD1883D5-DF3A-43B8-BD5A-CA966D910F42"/>
+        <j.16:P1412 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-0AD1D8F1-2B4E-4B09-8BC4-D56DDD3E4937"/>
+        <j.0:P1953>674142</j.0:P1953>
+        <j.0:P136 rdf:resource="http://www.wikidata.org/entity/Q11403"/>
+        <j.16:P509 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-192ee71c-4f76-4497-ba19-5762fba53d53"/>
+        <j.13:P434 rdf:resource="http://musicbrainz.org/artist/70d13364-265a-4961-856e-fd3d8bcfaf25"/>
+        <j.13:P7704 rdf:resource="http://data.europeana.eu/agent/base/110146"/>
+        <j.5:description xml:lang="nn">brasiliansk songar</j.5:description>
+        <j.16:P3368 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-939FDC36-4CFD-4D53-B215-0722B90AB107"/>
+        <j.0:P268>159234479</j.0:P268>
+        <j.16:P18 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-A77F5F4B-2148-4BB8-AB9C-CB59724EEDA1"/>
+        <j.0:P7704>agent/base/110146</j.0:P7704>
+        <j.12:prefLabel xml:lang="fa">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÛŒØ¨Ø±ÛŒÙˆ</j.12:prefLabel>
+        <j.16:P345 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-1a8bbf1f-9a3e-4018-aee1-2d294fc91761"/>
+        <j.0:P1553>91229</j.0:P1553>
+        <j.0:P5882>M00000113190</j.0:P5882>
+        <j.16:P646 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-23A0EBE4-4228-4F27-904C-FC58DD6A53BE"/>
+        <j.16:P735 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-9AED1322-FC65-422B-971E-9CB7AAB803F3"/>
+        <rdfs:label xml:lang="ar">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ</rdfs:label>
+        <rdfs:label xml:lang="arz">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ</rdfs:label>
+        <j.5:description xml:lang="he">×–×ž×¨ ×‘×¨×–×™×œ× ×™</j.5:description>
+        <j.16:P2031 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-BE429152-51C0-4590-8F67-BDCE85C17A37"/>
+        <j.13:P268 rdf:resource="http://data.bnf.fr/ark:/12148/cb159234479#about"/>
+        <j.0:P570 rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >1996-01-08T00:00:00Z</j.0:P570>
+        <j.5:description xml:lang="sq">kÃ«ngÃ«tar brazilian</j.5:description>
+        <j.5:description xml:lang="pap">kantante brasileÃ±o</j.5:description>
+        <j.5:description xml:lang="fa">Ø®ÙˆØ§Ù†Ù†Ø¯Ù‡ Ø¨Ø±Ø²ÛŒÙ„ÛŒ</j.5:description>
+        <j.0:P735 rdf:resource="http://www.wikidata.org/entity/Q15905580"/>
+        <j.16:P19 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-7EC91B6C-1B5F-41C0-85FE-6A96483B2A0F"/>
+        <j.16:P136 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-5A47D155-8EFD-4A43-A623-F2811D93674D"/>
+        <j.0:P1303 rdf:resource="http://www.wikidata.org/entity/Q17172850"/>
+        <j.12:prefLabel xml:lang="pt">Roberto Ribeiro</j.12:prefLabel>
+        <j.16:P1303 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-25117115-4D8B-425D-A985-1F7A9CD8394D"/>
+        <j.16:P31 rdf:resource="http://www.wikidata.org/entity/statement/Q7351875-907655BA-932B-4132-A162-3A9CAE1A1F1C"/>
+        <j.0:P27 rdf:resource="http://www.wikidata.org/entity/Q155"/>
+        <j.12:prefLabel xml:lang="en">Roberto Ribeiro</j.12:prefLabel>
+        <j.12:prefLabel xml:lang="pap">Roberto Ribeiro</j.12:prefLabel>
+      </j.10:Item>
+    </j.5:sameAs>
+  </j.5:MusicGroup>
+  <j.5:MusicGroup rdf:about="http://dbpedia.org/resource/Roberto_Ribeiro">
+    <rdfs:comment xml:lang="pt">Dermeval Miranda Maciel, mais conhecido como Roberto Ribeiro (Campos dos Goytacazes, 20 de julho de 1940 â€” Rio de Janeiro, 8 de janeiro de 1996) foi um Cantor e IntÃ©rprete de Samba-Enredo Brasileiro. Sambista do ImpÃ©rio Serrano, Roberto Ribeiro construiu uma respeitÃ¡vel carreira de IntÃ©rprete e Compositor Desde a Segunda Metade da dÃ©cada de 1960. De voz bem Timbrada e Enxuto Fraseado, Seu RepertÃ³rio IncluÃ­am Sambas de Todos os Tipos, Como AfoxÃ©s, IjexÃ¡s, e outros . Tem Mais de 20 Discos Gravados, com sucessos populares como as canÃ§Ãµes "Acreditar", "Estrela de Madureira", "Todo Menino Ã‰ um Rei", "Vazio", "Malandros Maneiros", "Fala Brasil" e "Amor de Verdade".</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:1940_births"/>
+    <j.9:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Campos_dos_Goytacazes"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:20th-century_Brazilian_male_singers"/>
+    <owl:sameAs>
+      <j.5:Thing rdf:about="http://yago-knowledge.org/resource/Roberto_Ribeiro">
+        <rdfs:comment xml:lang="ast">cantante brasilanu (1940â€“1996)</rdfs:comment>
+        <rdfs:comment xml:lang="ca">cantant brasiler</rdfs:comment>
+        <rdfs:comment xml:lang="he">×–×ž×¨ ×‘×¨×–×™×œ× ×™</rdfs:comment>
+        <rdfs:comment xml:lang="ro">cÃ¢ntÄƒreÈ› brazilian</rdfs:comment>
+        <rdfs:comment xml:lang="gl">cantante brasileiro</rdfs:comment>
+        <j.5:nationality rdf:resource="http://yago-knowledge.org/resource/Brazil"/>
+        <rdfs:comment xml:lang="es">cantante brasileÃ±o</rdfs:comment>
+        <j.5:sameAs rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >https://es.wikipedia.org/wiki/Roberto_Ribeiro</j.5:sameAs>
+        <rdfs:comment xml:lang="bn">à¦¬à§ à¦°à¦¾à¦œà¦¿à¦²à§€à¦¯à¦¼ à¦—à¦¾à¦¯à¦¼à¦•</rdfs:comment>
+        <j.5:birthPlace rdf:resource="http://yago-knowledge.org/resource/Campos_dos_Goytacazes"/>
+        <rdfs:comment xml:lang="nb">brasiliansk sanger</rdfs:comment>
+        <rdfs:comment xml:lang="da">brasiliansk sanger</rdfs:comment>
+        <owl:sameAs rdf:resource="http://dbpedia.org/resource/Roberto_Ribeiro"/>
+        <j.5:gender rdf:resource="http://yago-knowledge.org/resource/male_Q6581097"/>
+        <rdfs:comment xml:lang="nn">brasiliansk songar</rdfs:comment>
+        <rdfs:comment xml:lang="nl">zanger uit BraziliÃ« (1940-1996)</rdfs:comment>
+        <rdfs:comment xml:lang="ar">Ù…ØºÙ†ÙŠ Ø¨Ø±Ø§Ø²ÙŠÙ„ÙŠ</rdfs:comment>
+        <rdfs:comment xml:lang="de">brasilianischer SÃ¤nger</rdfs:comment>
+        <j.5:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >1996-01-08</j.5:deathDate>
+        <rdfs:comment xml:lang="fa">Ø®ÙˆØ§Ù†Ù†Ø¯Ù‡ Ø¨Ø±Ø²ÛŒÙ„ÛŒ</rdfs:comment>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7351875"/>
+        <rdfs:comment xml:lang="ga">amhrÃ¡naÃ­ BrasaÃ­leach</rdfs:comment>
+        <rdfs:comment xml:lang="ace">ureueng meujangeun Brasil</rdfs:comment>
+        <rdfs:label xml:lang="fa">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÛŒØ¨Ø±ÛŒÙˆ</rdfs:label>
+        <rdfs:comment xml:lang="en-ca">Brazilian singer</rdfs:comment>
+        <rdfs:comment xml:lang="en-gb">Brazilian singer</rdfs:comment>
+        <rdfs:comment xml:lang="en">Brazilian singer</rdfs:comment>
+        <j.5:deathPlace rdf:resource="http://yago-knowledge.org/resource/Rio_de_Janeiro"/>
+        <rdfs:label xml:lang="ast">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="ca">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="da">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="de">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="en">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="sv">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="sq">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="sl">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="pt-br">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="pt">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="nn">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="nl">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="nb">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="ga">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="fr">Roberto Ribeiro</rdfs:label>
+        <rdfs:label xml:lang="es">Roberto Ribeiro</rdfs:label>
+        <rdfs:comment xml:lang="sv">brasiliansk sÃ¥ngare</rdfs:comment>
+        <j.5:sameAs rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >https://en.wikipedia.org/wiki/Roberto_Ribeiro</j.5:sameAs>
+        <j.5:alternateName xml:lang="pt">Dermeval Miranda Maciel</j.5:alternateName>
+        <j.5:sameAs rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%A8%D8%B1%D8%AA%D9%88_%D8%B1%D9%8A%D8%A8%D9%8A%D8%B1%D9%88</j.5:sameAs>
+        <j.5:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >1940-07-20</j.5:birthDate>
+        <rdfs:label xml:lang="ar">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ</rdfs:label>
+        <j.5:givenName rdf:resource="http://yago-knowledge.org/resource/Roberto_Q15905580"/>
+        <rdfs:comment xml:lang="fr">chanteur brÃ©silien</rdfs:comment>
+        <rdfs:comment xml:lang="et">Brasiilia laulja</rdfs:comment>
+        <rdf:type rdf:resource="http://yago-knowledge.org/resource/Human"/>
+        <rdf:type rdf:resource="http://schema.org/Person"/>
+        <j.5:sameAs rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI"
+        >https://pt.wikipedia.org/wiki/Roberto_Ribeiro</j.5:sameAs>
+        <rdfs:comment xml:lang="sq">kÃ«ngÃ«tar brazilian</rdfs:comment>
+        <j.5:image rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20Ribeiro%20%281971%29.tif"/>
+      </j.5:Thing>
+    </owl:sameAs>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Carnival"/>
+    <rdfs:comment xml:lang="en">Dermeval Miranda Maciel, best known as Roberto Ribeiro. (Campos dos Goytacazes, July 20, 1940 â€“ January 8, 1996) was a Brazilian samba singer.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/Ø±ÙˆØ¨Ø±ØªÙˆ_Ø±ÙŠØ¨ÙŠØ±Ùˆ"/>
+    <j.8:instrument xml:lang="en">Singer</j.8:instrument>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdfs:comment xml:lang="es">Dermeval Miranda Maciel, mÃ¡s conocido como Roberto Ribeiro, (Campos dos Goytacazes, 20 de julio de 1940-RÃ­o de Janeiro, 8 de enero de 1996) fue un cantante brasileÃ±o de samba.â€‹ Sambista de la escuela de samba Imperio Serrano, Roberto Ribeiro construyÃ³ una respetable carrera como intÃ©rprete y compositor desde la segunda mitad de la dÃ©cada de 1960. De voz bien timbrada, su repertorio incluÃ­a sambas de todo tipo, como afoxÃ©s, ijexÃ¡s, maracatus y otros ritmos los africanos. Cuenta con mÃ¡s de 20 discos grabados, con Ã©xitos populares como las canciones "Acreditar", "Estrela de Madureira", "Todo Menino Ã‰ um Rei", "Vazio", "Malandros Maneiros", "Fala Brasil" e "Amor de Verdade".â€‹</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <j.2:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1940-07-20</j.2:birthDate>
+    <j.9:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Brazilian_singers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/53904866"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MusicalArtist"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Silas_de_Oliveira"/>
+    <j.2:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1996-01-08</j.2:deathDate>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:20th-century_Brazilian_singers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04ljpcz"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Samba-enredo"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q483501"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"/>
+    <j.9:subject rdf:resource="http://dbpedia.org/resource/Category:1940_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromRioDeJaneiro(state)"/>
+    <j.8:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Authority_control"/>
+    <j.8:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_musical_artist"/>
+    <owl:sameAs rdf:resource="http://arz.dbpedia.org/resource/Ø±ÙˆØ¨Ø±ØªÙˆ_Ø±ÙŠØ¨ÙŠØ±Ùˆ"/>
+    <j.5:sameAs rdf:resource="http://viaf.org/viaf/53904866"/>
+    <j.8:occupation xml:lang="en">Singer, songwriter</j.8:occupation>
+    <j.8:birthName xml:lang="en">Dermeval Miranda Maciel</j.8:birthName>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Edson_Passos"/>
+    <j.2:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >19290867</j.2:wikiPageID>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Roberto_Ribeiro"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromCamposDosGoytacazes"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <j.8:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Discogs_artist"/>
+    <j.9:subject rdf:resource="http://dbpedia.org/resource/Category:1996_deaths"/>
+    <j.2:abstract xml:lang="es">Dermeval Miranda Maciel, mÃ¡s conocido como Roberto Ribeiro, (Campos dos Goytacazes, 20 de julio de 1940-RÃ­o de Janeiro, 8 de enero de 1996) fue un cantante brasileÃ±o de samba.â€‹ Sambista de la escuela de samba Imperio Serrano, Roberto Ribeiro construyÃ³ una respetable carrera como intÃ©rprete y compositor desde la segunda mitad de la dÃ©cada de 1960. De voz bien timbrada, su repertorio incluÃ­a sambas de todo tipo, como afoxÃ©s, ijexÃ¡s, maracatus y otros ritmos los africanos. Cuenta con mÃ¡s de 20 discos grabados, con Ã©xitos populares como las canciones "Acreditar", "Estrela de Madureira", "Todo Menino Ã‰ um Rei", "Vazio", "Malandros Maneiros", "Fala Brasil" e "Amor de Verdade".â€‹</j.2:abstract>
+    <j.2:alias xml:lang="en">Roberto Ribeiro</j.2:alias>
+    <j.11:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Roberto_Ribeiro?oldid=1121175353&amp;ns=0"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Campos_dos_Goytacazes"/>
+    <j.8:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1940-07-20</j.8:birthDate>
+    <j.2:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"
+    >1966</j.2:activeYearsStartYear>
+    <j.15:name xml:lang="en">Roberto Ribeiro</j.15:name>
+    <j.8:name xml:lang="en">Roberto Ribeiro</j.8:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Musician110340312"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Musician110339966"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Fluminense"/>
+    <j.9:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Brazilian_male_singers"/>
+    <j.8:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Use_mdy_dates"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Singer110599806"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:People_from_Campos_dos_Goytacazes"/>
+    <rdfs:label xml:lang="pt">Roberto Ribeiro</rdfs:label>
+    <rdfs:label xml:lang="es">Roberto Ribeiro</rdfs:label>
+    <rdfs:label xml:lang="en">Roberto Ribeiro</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.8:deathPlace xml:lang="en">Rio de Janeiro, Brazil</j.8:deathPlace>
+    <rdfs:comment xml:lang="ar">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ (Ø¨Ø§Ù„Ø¨Ø±ØªØºØ§Ù„ÙŠØ©: Roberto Ribeiroâ€ ) Ù‡Ùˆ Ù…ØºÙ†ÙŠ Ø¨Ø±Ø§Ø²ÙŠÙ„ÙŠØŒ ÙˆÙ„Ø¯ Ù ÙŠ 20 ÙŠÙˆÙ„ÙŠÙˆ 1940 Ù ÙŠ ÙƒØ§Ù…Ø¨ÙˆØ³ Ø¯ÙˆØ³ ØºÙˆÙŠØªØ§ÙƒØ§Ø²Ø³ Ù ÙŠ Ø§Ù„Ø¨Ø±Ø§Ø²ÙŠÙ„ØŒ ÙˆØªÙˆÙ ÙŠ Ù ÙŠ 8 ÙŠÙ†Ø§ÙŠØ± 1996 Ù ÙŠ Ø±ÙŠÙˆ Ø¯ÙŠ Ø¬Ø§Ù†ÙŠØ±Ùˆ Ù ÙŠ Ø§Ù„Ø¨Ø±Ø§Ø²ÙŠÙ„.</rdfs:comment>
+    <j.15:givenName xml:lang="en">Dermeval Miranda Maciel</j.15:givenName>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Liette_de_Souza"/>
+    <j.2:genre rdf:resource="http://dbpedia.org/resource/Samba"/>
+    <j.2:abstract xml:lang="en">Dermeval Miranda Maciel, best known as Roberto Ribeiro. (Campos dos Goytacazes, July 20, 1940 â€“ January 8, 1996) was a Brazilian samba singer.</j.2:abstract>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088"/>
+    <j.8:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Death_date_and_age"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Roberto_Ribeiro"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Performer110415638"/>
+    <j.8:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >1996-01-08</j.8:deathDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Roberto_Ribeiro"/>
+    <j.2:birthPlace rdf:resource="http://dbpedia.org/resource/Campos_dos_Goytacazes"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/ImpÃ©rio_Serrano"/>
+    <j.8:yearsActive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >1966</j.8:yearsActive>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Entertainer109616922"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Samba"/>
+    <j.8:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:For"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/DÃ©lcio_Carvalho"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBrazilianMaleSingers"/>
+    <j.2:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    >4356</j.2:wikiPageLength>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Category:1996_deaths"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Rio_de_Janeiro"/>
+    <j.2:abstract xml:lang="ar">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ (Ø¨Ø§Ù„Ø¨Ø±ØªØºØ§Ù„ÙŠØ©: Roberto Ribeiroâ€ ) Ù‡Ùˆ Ù…ØºÙ†ÙŠ Ø¨Ø±Ø§Ø²ÙŠÙ„ÙŠØŒ ÙˆÙ„Ø¯ Ù ÙŠ 20 ÙŠÙˆÙ„ÙŠÙˆ 1940 Ù ÙŠ ÙƒØ§Ù…Ø¨ÙˆØ³ Ø¯ÙˆØ³ ØºÙˆÙŠØªØ§ÙƒØ§Ø²Ø³ Ù ÙŠ Ø§Ù„Ø¨Ø±Ø§Ø²ÙŠÙ„ØŒ ÙˆØªÙˆÙ ÙŠ Ù ÙŠ 8 ÙŠÙ†Ø§ÙŠØ± 1996 Ù ÙŠ Ø±ÙŠÙˆ Ø¯ÙŠ Ø¬Ø§Ù†ÙŠØ±Ùˆ Ù ÙŠ Ø§Ù„Ø¨Ø±Ø§Ø²ÙŠÙ„.</j.2:abstract>
+    <j.8:genre rdf:resource="http://dbpedia.org/resource/Samba"/>
+    <j.8:alias xml:lang="en">Roberto Ribeiro</j.8:alias>
+    <j.2:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >1121175353</j.2:wikiPageRevisionID>
+    <j.2:activeYearsEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear"
+    >1996</j.2:activeYearsEndYear>
+    <j.2:abstract xml:lang="pt">Dermeval Miranda Maciel, mais conhecido como Roberto Ribeiro (Campos dos Goytacazes, 20 de julho de 1940 â€” Rio de Janeiro, 8 de janeiro de 1996) foi um Cantor e IntÃ©rprete de Samba-Enredo Brasileiro. Sambista do ImpÃ©rio Serrano, Roberto Ribeiro construiu uma respeitÃ¡vel carreira de IntÃ©rprete e Compositor Desde a Segunda Metade da dÃ©cada de 1960. De voz bem Timbrada e Enxuto Fraseado, Seu RepertÃ³rio IncluÃ­am Sambas de Todos os Tipos, Como AfoxÃ©s, IjexÃ¡s, e outros . Tem Mais de 20 Discos Gravados, com sucessos populares como as canÃ§Ãµes "Acreditar", "Estrela de Madureira", "Todo Menino Ã‰ um Rei", "Vazio", "Malandros Maneiros", "Fala Brasil" e "Amor de Verdade".</j.2:abstract>
+    <j.8:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Birth_date"/>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Dona_Ivone_Lara"/>
+    <j.8:background xml:lang="en">solo_singer</j.8:background>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Goalkeeper_(association_football)"/>
+    <j.2:deathPlace rdf:resource="http://dbpedia.org/resource/Rio_de_Janeiro"/>
+    <j.8:birthPlace xml:lang="en">Campos dos Goytacazes, Brazil</j.8:birthPlace>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7351875"/>
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729"/>
+    <j.15:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Roberto_Ribeiro"/>
+    <owl:sameAs rdf:resource="http://musicbrainz.org/artist/70d13364-265a-4961-856e-fd3d8bcfaf25"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <rdfs:label xml:lang="ar">Ø±ÙˆØ¨Ø±ØªÙˆ Ø±ÙŠØ¨ÙŠØ±Ùˆ</rdfs:label>
+    <owl:sameAs>
+      <j.2:Agent rdf:about="http://es.dbpedia.org/resource/Roberto_Ribeiro">
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5"/>
+        <j.9:subject rdf:resource="http://es.dbpedia.org/resource/CategorÃ­a:Compositores_de_Brasil"/>
+        <j.2:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+        >7694894</j.2:wikiPageID>
+        <j.2:abstract xml:lang="es">Dermeval Miranda Maciel, mÃ¡s conocido como Roberto Ribeiro, (Campos dos Goytacazes, 20 de julio de 1940-RÃ­o de Janeiro, 8 de enero de 1996) fue un cantante brasileÃ±o de samba.â€‹ Sambista de la escuela de samba Imperio Serrano, Roberto Ribeiro construyÃ³ una respetable carrera como intÃ©rprete y compositor desde la segunda mitad de la dÃ©cada de 1960. De voz bien timbrada, su repertorio incluÃ­a sambas de todo tipo, como afoxÃ©s, ijexÃ¡s, maracatus y otros ritmos los africanos. Cuenta con mÃ¡s de 20 discos grabados, con Ã©xitos populares como las canciones "Acreditar", "Estrela de Madureira", "Todo Menino Ã‰ um Rei", "Vazio", "Malandros Maneiros", "Fala Brasil" e "Amor de Verdade".â€‹</j.2:abstract>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627"/>
+        <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Roberto_Ribeiro"/>
+        <j.15:isPrimaryTopicOf rdf:resource="http://es.wikipedia.org/wiki/Roberto_Ribeiro"/>
+        <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdf:type rdf:resource="http://schema.org/Person"/>
+        <j.9:subject rdf:resource="http://es.dbpedia.org/resource/CategorÃ­a:MÃºsicos_de_RÃ­o_de_Janeiro"/>
+        <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398"/>
+        <j.6:tiempo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+        >1966</j.6:tiempo>
+        <j.9:subject rdf:resource="http://es.dbpedia.org/resource/CategorÃ­a:AfrobrasileÃ±os"/>
+        <rdfs:label xml:lang="es">Roberto Ribeiro</rdfs:label>
+        <j.11:wasDerivedFrom rdf:resource="http://es.wikipedia.org/wiki/Roberto_Ribeiro?oldid=112207716&amp;ns=0"/>
+        <j.9:subject rdf:resource="http://es.dbpedia.org/resource/CategorÃ­a:Cantantes_masculinos_de_Brasil"/>
+        <j.2:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+        >5623</j.2:wikiPageLength>
+        <j.9:subject rdf:resource="http://es.dbpedia.org/resource/CategorÃ­a:Fallecidos_por_accidentes_de_trÃ¡fico"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:comment xml:lang="es">Dermeval Miranda Maciel, mÃ¡s conocido como Roberto Ribeiro, (Campos dos Goytacazes, 20 de julio de 1940-RÃ­o de Janeiro, 8 de enero de 1996) fue un cantante brasileÃ±o de samba.â€‹ Sambista de la escuela de samba Imperio Serrano, Roberto Ribeiro construyÃ³ una respetable carrera como intÃ©rprete y compositor desde la segunda mitad de la dÃ©cada de 1960. De voz bien timbrada, su repertorio incluÃ­a sambas de todo tipo, como afoxÃ©s, ijexÃ¡s, maracatus y otros ritmos los africanos. Cuenta con mÃ¡s de 20 discos grabados, con Ã©xitos populares como las canciones "Acreditar", "Estrela de Madureira", "Todo Menino Ã‰ um Rei", "Vazio", "Malandros Maneiros", "Fala Brasil" e "Amor de Verdade".â€‹</rdfs:comment>
+        <j.6:nombreDeNacimiento xml:lang="es">Dermeval Miranda Maciel</j.6:nombreDeNacimiento>
+        <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"/>
+        <j.9:subject rdf:resource="http://es.dbpedia.org/resource/CategorÃ­a:Campistas"/>
+        <j.2:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+        >112207716</j.2:wikiPageRevisionID>
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+      </j.2:Agent>
+    </owl:sameAs>
+    <j.2:background>solo_singer</j.2:background>
+    <j.2:wikiPageWikiLink rdf:resource="http://dbpedia.org/resource/Elza_Soares"/>
+    <owl:sameAs>
+      <rdf:Description rdf:about="https://global.dbpedia.org/id/4uG4T">
+        <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/Ø±ÙˆØ¨Ø±ØªÙˆ_Ø±ÙŠØ¨ÙŠØ±Ùˆ"/>
+        <owl:sameAs rdf:resource="http://arz.dbpedia.org/resource/Ø±ÙˆØ¨Ø±ØªÙˆ_Ø±ÙŠØ¨ÙŠØ±Ùˆ"/>
+        <owl:sameAs rdf:resource="http://dbpedia.org/resource/Roberto_Ribeiro"/>
+        <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Roberto_Ribeiro"/>
+        <owl:sameAs rdf:resource="http://musicbrainz.org/artist/70d13364-265a-4961-856e-fd3d8bcfaf25"/>
+        <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Roberto_Ribeiro"/>
+        <owl:sameAs rdf:resource="http://viaf.org/viaf/53904866"/>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7351875"/>
+      </rdf:Description>
+    </owl:sameAs>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+  </j.5:MusicGroup>
+</rdf:RDF>

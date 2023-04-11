@@ -1,15 +1,13 @@
 package com.iff.impl;
 
 import com.iff.crawler.SemanticCrawler;
-import org.apache.jena.rdf.model.Model;
-import org.apache.jena.rdf.model.ModelFactory;
-import org.apache.jena.rdf.model.RDFNode;
-import org.apache.jena.rdf.model.Resource;
-import org.apache.jena.rdf.model.ResourceFactory;
-import org.apache.jena.rdf.model.Statement;
-import org.apache.jena.rdf.model.StmtIterator;
+import org.apache.jena.rdf.model.*;
+import org.apache.jena.rdf.model.impl.SelectorImpl;
 import org.apache.jena.vocabulary.OWL;
 
+import java.nio.charset.Charset;
+import java.nio.charset.CharsetEncoder;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayDeque;
 import java.util.HashSet;
 import java.util.Set;
@@ -24,7 +22,7 @@ public class SemanticCrawlerImpl implements SemanticCrawler {
     }
 
     @Override
-    public void search(final Model outputModel, final String resourceURI) {
+    public void search(Model outputModel, String resourceURI) {
         try {
             System.out.println("Searching URI: " + resourceURI);
 
@@ -36,9 +34,17 @@ public class SemanticCrawlerImpl implements SemanticCrawler {
 
             // Step 2
             StmtIterator stmtIterator = model.listStatements(ResourceFactory.createResource(resourceURI), null, (RDFNode) null);
-            outputModel.add(stmtIterator);
+            while (stmtIterator.hasNext()) {
+                Statement statement = stmtIterator.next();
+                RDFNode object = statement.getObject();
+                if (object.isAnon()) {
+                    searchAnonymousNode(outputModel, object.asResource());
+                } else {
+                    outputModel.add(statement);
+                }
+            }
 
-            // Step 3: <URI> <algumaPropriedade> <algumValor> .
+            // Step 3: <URI> OWL.sameAs <algumValor> .
             stmtIterator = model.listStatements(ResourceFactory.createResource(resourceURI), OWL.sameAs, (RDFNode) null);
             while (stmtIterator.hasNext()) {
                 Statement statement = stmtIterator.next();
@@ -55,7 +61,11 @@ public class SemanticCrawlerImpl implements SemanticCrawler {
             while (stmtIterator.hasNext()) {
                 Statement statement = stmtIterator.next();
                 Resource subject = statement.getSubject();
-                urisToBeVisited.push(subject.getURI());
+                if (subject.isAnon()) {
+                    searchAnonymousNode(outputModel, subject);
+                } else {
+                    urisToBeVisited.push(subject.getURI());
+                }
             }
 
         } catch (Exception e) {
@@ -63,7 +73,7 @@ public class SemanticCrawlerImpl implements SemanticCrawler {
         } finally {
             while (!urisToBeVisited.isEmpty()) {
                 String newUriToBeVisited = urisToBeVisited.pop();
-                if (!visitedUris.contains(newUriToBeVisited)) {
+                if (shouldVisitUrl(newUriToBeVisited)) {
                     search(outputModel, newUriToBeVisited);
                 }
             }
@@ -83,6 +93,14 @@ public class SemanticCrawlerImpl implements SemanticCrawler {
                 outputModel.add(statement);
             }
         }
+    }
 
+    private boolean shouldVisitUrl(String url) {
+        if (visitedUris.contains(url)) {
+            return false;
+        }
+
+        CharsetEncoder encoder = StandardCharsets.ISO_8859_1.newEncoder();
+        return encoder.canEncode(url);
     }
 }
